@@ -1,7 +1,7 @@
-[members] = {
+[members] = [
 
 "swap",
 "api",
 "pairs",
 "pool",
-},
+]
