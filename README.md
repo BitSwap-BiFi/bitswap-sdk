@@ -18,3 +18,11 @@ Soon
 ## Bulding 
 
 Soon
+
+## Roadmap
+
+- [ ] Import modules from Core
+- [ ] Pairs
+- [ ] LP
+- [ ] Pools
+- [ ] API
