@@ -26,3 +26,5 @@ Soon
 - [ ] LP
 - [ ] Pools
 - [ ] API
+- [ ] Ledger
+- [ ] Trezor
