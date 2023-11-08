@@ -28,3 +28,4 @@ Soon
 - [ ] API
 - [ ] Ledger
 - [ ] Trezor
+- [ ] Clean docs 
