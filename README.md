@@ -10,6 +10,7 @@
 - LP
 - Pools
 - API
+- Lightning Network
 
 ## Usage
 
