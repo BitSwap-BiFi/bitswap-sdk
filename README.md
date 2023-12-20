@@ -2,6 +2,7 @@
 
  An SDK for building applications on top of Bitswap 
 
+**⚠️Alpha software and WIP**
 
 ## Features
 
