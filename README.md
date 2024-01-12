@@ -17,7 +17,7 @@
 
 Soon
 
-## Bulding 
+## Building 
 
 Soon
 
