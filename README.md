@@ -30,4 +30,5 @@ Soon
 - [ ] API
 - [ ] Ledger
 - [ ] Trezor
-- [ ] Clean docs 
+- [ ] Clean docs
+- [ ] Stable software 
