@@ -31,4 +31,4 @@ Soon
 - [ ] Ledger
 - [ ] Trezor
 - [ ] Clean docs
-- [ ] Stable software 
+- [ ] Stable software (beta)
