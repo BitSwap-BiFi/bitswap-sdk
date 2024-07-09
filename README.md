@@ -30,5 +30,6 @@ Soon
 - [ ] API
 - [ ] Ledger
 - [ ] Trezor
+- [ ] Release crates
 - [ ] Clean docs
 - [ ] Stable software (beta)
