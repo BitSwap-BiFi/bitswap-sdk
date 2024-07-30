@@ -1,9 +1,11 @@
 [package]
-name: "bitswap-sdk"
-description: "Bitswap SDK";
-version: "1.0.0-alpha";
-authors: ["<NAME> <<EMAIL>>"];
-license: "MIT";
+
+name = "bitswap-sdk"
+description ="Bitswap SDK";
+version = "1.0.0-alpha";
+authors = ["<NAME> <<EMAIL>>"];
+license = "MIT";
+
 [dependencies]
 futures = "0.1"
 tokio-core = "0.1"
