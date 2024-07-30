@@ -1,9 +1,9 @@
 [package]
 
 name = "bitswap-sdk"
-version = "1.0.0-alpha";
-authors = ["<NAME> <<EMAIL>>"];
-license = "MIT";
+version = "1.0.0-alpha"
+authors = ["<NAME> <<EMAIL>>"]
+license = "MIT"
 
 [dependencies]
 futures = "0.1"
