@@ -1,7 +1,6 @@
 [package]
 
 name = "bitswap-sdk"
-description ="Bitswap SDK";
 version = "1.0.0-alpha";
 authors = ["<NAME> <<EMAIL>>"];
 license = "MIT";
